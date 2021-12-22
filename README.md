@@ -12,5 +12,5 @@ This library contains a plethora of functions peforming mathematical operations 
 If you wish to improve or add new exercises, please feel free! Just make sure that you:
 
 -  Add unit tests covering sufficient inputs.
--  Ensure that the variables, parameters, functions, and classes are nmed appropriately as to acheive [self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code#:~:text=Self%2Ddocumenting%20code%20is%20ostensibly,symbol's%20meaning%2C%20such%20as%20article.&text=The%20code%20must%20also%20have,easily%20understand%20the%20algorithm%20used.).
+-  Ensure that the variables, parameters, functions, and classes are named appropriately as to acheive [self-documenting code](https://en.wikipedia.org/wiki/Self-documenting_code#:~:text=Self%2Ddocumenting%20code%20is%20ostensibly,symbol's%20meaning%2C%20such%20as%20article.&text=The%20code%20must%20also%20have,easily%20understand%20the%20algorithm%20used.).
 -  Open a Pull Request and assign paynemiller92 as the reviewer.  
