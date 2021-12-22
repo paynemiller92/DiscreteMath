@@ -1,9 +1,6 @@
-<p align="center>
+
 # Discrete Mathematics
-
-<img src=https://upload.wikimedia.org/wikipedia/commons/5/57/6n-graf.png />
-
-</p>
+![A connected Graph, a popular structure in Discrete Mathematics](https://upload.wikimedia.org/wikipedia/commons/5/57/6n-graf.png)
 
 
 ## Overview
